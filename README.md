@@ -38,3 +38,11 @@ Cette série de documents, intitulée **LeLabQuantique**, constitue une explorat
 -   **Partie 3** : Se concentre sur les **simulations quantiques**, une approche permettant de modéliser des systèmes moléculaires et matériels avec une précision inédite.
 -   **Partie 4** : Traite de l'**apprentissage automatique quantique** (*Quantum Machine Learning*), un domaine émergent qui vise à améliorer les algorithmes d'IA.
 -   **Partie 5** : Aborde les défis liés au **développement de matériel quantique** (*hardware*), depuis les qubits jusqu'aux systèmes de correction d'erreurs.
+
+### 4. The-Path-to-AGI.pdf
+
+Ce document traite du chemin vers l'Intelligence Artificielle Générale (AGI). Il explore probablement :
+
+-   Les différentes approches et stratégies de recherche pour atteindre l'AGI.
+-   Les défis techniques et conceptuels majeurs qui restent à surmonter.
+-   Les implications potentielles de la création d'une AGI pour la société.
