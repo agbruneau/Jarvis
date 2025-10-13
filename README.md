@@ -27,3 +27,14 @@ Ce rapport offre une analyse prospective sur l'évolution de l'intelligence arti
 -   Quels sont les défis à relever pour garantir un développement de l'IA qui soit bénéfique pour l'humanité ?
 
 Il s'agit d'une lecture essentielle pour quiconque s'intéresse à l'avenir de la technologie et à ses implications.
+
+### 3. LeLabQuantique
+
+Cette série de documents, intitulée **LeLabQuantique**, constitue une exploration approfondie des technologies quantiques. Chaque partie aborde des facettes spécifiques de ce domaine révolutionnaire :
+
+-   **Global** : Une introduction complète qui établit les bases de la physique quantique et de ses applications.
+-   **Partie 1** : Axée sur les **algorithmes quantiques**, cette section détaille les outils qui promettent d'accélérer la résolution de problèmes complexes.
+-   **Partie 2** : Consacrée à la **cryptographie post-quantique**, elle explore les méthodes de sécurisation des données face à la menace des ordinateurs quantiques.
+-   **Partie 3** : Se concentre sur les **simulations quantiques**, une approche permettant de modéliser des systèmes moléculaires et matériels avec une précision inédite.
+-   **Partie 4** : Traite de l'**apprentissage automatique quantique** (*Quantum Machine Learning*), un domaine émergent qui vise à améliorer les algorithmes d'IA.
+-   **Partie 5** : Aborde les défis liés au **développement de matériel quantique** (*hardware*), depuis les qubits jusqu'aux systèmes de correction d'erreurs.
