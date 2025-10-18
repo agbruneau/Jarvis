@@ -39,9 +39,17 @@ Cette série de documents, intitulée **LeLabQuantique**, constitue une explorat
 -   **Partie 4** : Traite de l'**apprentissage automatique quantique** (*Quantum Machine Learning*), un domaine émergent qui vise à améliorer les algorithmes d'IA.
 -   **Partie 5** : Aborde les défis liés au **développement de matériel quantique** (*hardware*), depuis les qubits jusqu'aux systèmes de correction d'erreurs.
 
-### 4. The-Path-to-AGI.pdf
+### 4. A Definition of AGI.pdf
 
-Ce document traite du chemin vers l'Intelligence Artificielle Générale (AGI). Il explore probablement :
+Ce document propose une définition formelle et rigoureuse de l'Intelligence Artificielle Générale (AGI). Il vise à clarifier les concepts fondamentaux et à établir un cadre de référence pour la recherche dans ce domaine. Les points clés incluent :
+
+-   Une analyse des définitions existantes de l'AGI et de leurs limites.
+-   La proposition de critères mesurables pour évaluer les progrès vers l'AGI.
+-   Une discussion sur les implications philosophiques et techniques de la définition proposée.
+
+### 5. The-Path-to-AGI.pdf
+
+Ce document traite du chemin vers l'Intelligence Artificielle Générale (AGI), en s'appuyant sur les concepts établis dans le document de référence "A Definition of AGI.pdf". Il explore probablement :
 
 -   Les différentes approches et stratégies de recherche pour atteindre l'AGI.
 -   Les défis techniques et conceptuels majeurs qui restent à surmonter.
